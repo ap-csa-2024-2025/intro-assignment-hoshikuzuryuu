@@ -16,3 +16,4 @@ Answer the questions below
 * Something interesting about me is I couldn't really wake up this morning :D
 * Ask Mr. Vu anything: When are you going full bald?
 * List your sports and extracurriculars you participate in: FRC, Make-A-Wish, Psych Club, Vietnamese Program Committee, Astrology Club
+
